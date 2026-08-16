@@ -1,0 +1,5 @@
+cd "C:\Users\Administrator\Documents\Codex\2026-08-16\new-chat\outputs"
+
+git -c safe.directory=C:/Users/Administrator/Documents/Codex/2026-08-16/new-chat/outputs branch -M main
+git -c safe.directory=C:/Users/Administrator/Documents/Codex/2026-08-16/new-chat/outputs remote add origin https://github.com/你的用户名/geo-auto-publisher.git
+git -c safe.directory=C:/Users/Administrator/Documents/Codex/2026-08-16/new-chat/outputs push -u origin main
